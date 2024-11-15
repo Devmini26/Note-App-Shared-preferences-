@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="add_note_heading">Add Note</string>
+    <string name="enter_title_hint">Enter the Title</string>
+    <string name="enter_description_hint">Enter the description</string>
+    <string name="date_button">Date</string>
+    <string name="time_button">Time</string>
+    <string name="edit_note_heading">Edit Note</string>
+    <string name="update_title_hint">Enter the Title</string>
+    <string name="update_description_hint">Enter the description</string>
+    <string name="notes_heading">Notes</string>
+    <string name="add_button">Add</string>
+    <string name="note_title">Title</string>
+    <string name="note_content">Content</string>
+    <string name="save_button">Save</string>
+</resources>

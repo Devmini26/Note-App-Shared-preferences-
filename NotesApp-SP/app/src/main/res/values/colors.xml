@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="orange1">#ed5f1e</color>
+    <color name="orange">#FFA500</color>
+    <color name="background_color">#F4E1DB</color>
+    <color name="card_background">#CAC4C4</color>
+
+    <!-- Text colors -->
+    <color name="text_color_primary">#000000</color>
+    <color name="text_color_secondary">#FFFFFF</color>
+
+    <!-- Button colors -->
+    <color name="button_color_primary">#FFA500</color>
+    <color name="button_text_color">#FFFFFF</color>
+
+    <!-- Icon colors -->
+    <color name="icon_color">#000000</color>
+
+    <!-- Miscellaneous colors -->
+    <color name="border_color">#FFA500</color>
+
+</resources>
